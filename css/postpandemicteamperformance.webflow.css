@@ -2746,8 +2746,8 @@
 }
 
 .modulebaclkground._5-padding {
-  padding-top: 3%;
-  padding-bottom: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   background-image: none;
 }
 
@@ -2958,11 +2958,6 @@
 
 .section-20 {
   padding: 34px 5%;
-  background-image: url('../images/Group-239.png');
-  background-position: 50% 0%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 .heading-21 {
@@ -3341,11 +3336,7 @@
 }
 
 ._5-padding {
-  padding: 3% 5%;
-  background-image: url('../images/Group-239.png');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-attachment: fixed;
+  padding: 5%;
 }
 
 ._5-padding._2 {
@@ -3364,8 +3355,8 @@
 
 .blackbackground._5-padding {
   max-width: 11490px;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   background-image: none;
 }
 
@@ -3406,6 +3397,14 @@
 
 .heading-32 {
   font-weight: 500;
+}
+
+.section-24 {
+  padding: 5%;
+}
+
+.section-25 {
+  padding: 5%;
 }
 
 @media screen and (max-width: 991px) {
